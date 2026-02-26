@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "All Girls Are The Same",
+  "base_artist": "Juice WRLD",
+  "createdAt": "2026-02-26T14:35:09.815069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/01_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/02_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Trippin",
+      "has_synced": true,
+      "path": "select/03_All_Girls_Are_The_Same_Trippin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Amtilb",
+      "has_synced": true,
+      "path": "select/04_All_Girls_Are_The_Same_Amtilb.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ALL GIRLS ARE THE SAME",
+      "artist": "RØNIN",
+      "has_synced": true,
+      "path": "select/05_ALL_GIRLS_ARE_THE_SAME_RØNIN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Girls Are the Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/06_All_Girls_Are_the_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/07_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/08_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ALL GIRLS ARE THE SAME",
+      "artist": "RØNIN",
+      "has_synced": true,
+      "path": "select/09_ALL_GIRLS_ARE_THE_SAME_RØNIN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/10_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/11_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/12_All_Girls_Are_The_Same_Song.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/13_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/14_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/15_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Juice WRLD - All Girls Are The Same",
+      "artist": "PURRP",
+      "has_synced": true,
+      "path": "select/16_Juice_WRLD_-_All_Girls_Are_The_Same_PURRP.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/17_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "J",
+      "has_synced": true,
+      "path": "select/18_All_Girls_Are_The_Same_J.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/19_All_Girls_Are_The_Same_Juice_WRLD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "has_synced": false,
+      "path": "select/pl_01_All_Girls_Are_The_Same_Juice_WRLD.txt"
+    }
+  ]
+}
